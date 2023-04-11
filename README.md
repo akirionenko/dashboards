@@ -11,6 +11,6 @@
 Вывод : набор данных Яндекс.Дзен для сбора данных с метриками взаимодействия пользователей с карточками статей.
 
 
-DASHBOARD Tableau: https://public.tableau.com/shared/PWM5NSB5W?:display_count=n&:origin=viz_share_link
+[Dashboard Tableau](https://public.tableau.com/shared/PWM5NSB5W?:display_count=n&:origin=viz_share_link)
 
-Презентация: https://docs.google.com/presentation/d/1sprlo-5wsoAdOU6sTlgv4d8TGQ4NREGKpPvsuMAVejo/edit?usp=sharing
+[Презентация](https://docs.google.com/presentation/d/1sprlo-5wsoAdOU6sTlgv4d8TGQ4NREGKpPvsuMAVejo/edit?usp=sharing)
